@@ -1,0 +1,6 @@
+C:\Users\Razvan\OneDrive\Desktop\Atestat\Atestat\Atestat\bin\Release\net6.0-windows\app.publish\Atestat.exe
+C:\Users\Razvan\OneDrive\Desktop\Atestat\Atestat\Atestat\bin\Release\net6.0-windows\app.publish\Atestat.dll
+C:\Users\Razvan\OneDrive\Desktop\Atestat\Atestat\Atestat\bin\Release\net6.0-windows\app.publish\Atestat.deps.json
+C:\Users\Razvan\OneDrive\Desktop\Atestat\Atestat\Atestat\bin\Release\net6.0-windows\app.publish\Atestat.runtimeconfig.json
+C:\Users\Razvan\OneDrive\Desktop\Atestat\Atestat\Atestat\bin\Release\net6.0-windows\app.publish\Atestat.dll.config
+C:\Users\Razvan\OneDrive\Desktop\Atestat\Atestat\Atestat\bin\Release\net6.0-windows\app.publish\Atestat.pdb
