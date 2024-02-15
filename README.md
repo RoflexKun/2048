@@ -1,4 +1,4 @@
-# 2048 C# Project
+2048 C# Project
 
 As a part of my certification exam, I had to do a project on a topic I chose and in a programming language I wanted, and because I wanted to impress, I studied a bit of C#.
 I chose a simple project in Microsoft Visual Studio that shows my skills in C# and could help me deepen my knowledge.
